@@ -1,0 +1,10 @@
+[debug] > Exec(assembly, None, None)
+[debug] Evaluating tasks: assembly
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[warn] multiple main classes detected: run 'show discoveredMainClasses' to see the list
+[warn] javaOptions will be ignored, fork is set to false
+[warn] In the last 7 seconds, 5.871 (86,0%) were spent in GC. [Heap: 0,77GB free of 0,90GB, max 1,50GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.
+[warn] In the last 1540 seconds, 9.261 (0,6%) were spent in GC. [Heap: 0,62GB free of 0,96GB, max 1,50GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.
+[warn] Canceling execution...
+[debug] Forcing garbage collection...
+[warn] In the last 3470 seconds, 47.653 (1,4%) were spent in GC. [Heap: 0,53GB free of 0,76GB, max 1,50GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.

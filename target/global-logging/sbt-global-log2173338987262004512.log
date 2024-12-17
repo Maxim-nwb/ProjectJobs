@@ -1,0 +1,12 @@
+[debug] > Exec(assembly, None, None)
+[debug] Evaluating tasks: assembly
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\PolyakovMA\Desktop\project\code_1\target\scala-2.12\classes ...
+[info] done compiling
+[warn] javaOptions will be ignored, fork is set to false
+[info] Strategy 'discard' was applied to 399 files (Run the task at debug level to see details)
+[info] Strategy 'first' was applied to 184 files (Run the task at debug level to see details)
+[warn] Ignored unknown package option FixedTimestamp(Some(1262304000000))
+[debug] Forcing garbage collection...
+[success] Total time: 30 s, completed 24.11.2024 16:13:35
+[debug] > Exec(idea-shell, None, None)

@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Nov 22 03:03:19 MSK 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0193-512e-2563-00000ea0d7d0 
+on database directory C:\Users\PolyakovMA\Desktop\project\scala\metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@fd09e43 
+Loaded from file:/C:/Users/PolyakovMA/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=1.8.0_342-b07
+user.dir=C:\Users\PolyakovMA\Desktop\project\scala
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

@@ -1,0 +1,9 @@
+[debug] > Exec(package, None, None)
+[debug] Evaluating tasks: Compile / package
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to C:\Users\polyakovma\Desktop\project_code\code\target\scala-2.12\classes ...
+[info] done compiling
+[warn] multiple main classes detected: run 'show discoveredMainClasses' to see the list
+[debug] Forcing garbage collection...
+[success] Total time: 1 s, completed 17 дек. 2024 г., 01:59:16
+[debug] > Exec(idea-shell, None, None)

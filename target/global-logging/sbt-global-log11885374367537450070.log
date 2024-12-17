@@ -1,0 +1,8 @@
+[debug] > Exec(show discoveredMainClasses, None, None)
+[debug] Evaluating tasks: Compile / discoveredMainClasses
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\PolyakovMA\Desktop\project\code\target\scala-2.13\classes ...
+[info] done compiling
+[info] * run.RunKafkaLoad
+[success] Total time: 2 s, completed 23 нояб. 2024 г., 14:37:19
+[debug] > Exec(idea-shell, None, None)

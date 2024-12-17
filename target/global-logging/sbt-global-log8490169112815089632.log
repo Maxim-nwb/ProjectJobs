@@ -1,0 +1,7 @@
+[debug] > Exec({file:/C:/Users/PolyakovMA/Desktop/project/code/}root/clean, None, None)
+[debug] Evaluating tasks: clean
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[success] Total time: 400 s (06:40), completed 23.11.2024 21:19:48
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

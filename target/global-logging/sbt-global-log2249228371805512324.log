@@ -1,0 +1,24 @@
+[debug] > Exec(assembly, None, None)
+[debug] Evaluating tasks: assembly
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 4 Scala sources to C:\Users\PolyakovMA\Desktop\project\code\target\scala-2.13\classes ...
+[info] Non-compiled module 'compiler-bridge_2.13' for Scala 2.13.8. Compiling...
+[info]   Compilation completed in 10.103s.
+[warn] 1 deprecation (since 2.13.3); re-run with -deprecation for details
+[warn] one warning found
+[info] done compiling
+[warn] multiple main classes detected: run 'show discoveredMainClasses' to see the list
+[warn] javaOptions will be ignored, fork is set to false
+[warn] Canceling execution...
+[debug] Forcing garbage collection...
+[error] 28473 errors were encountered during merge
+[error] Cancelled: assembly
+[error] Cancelled: assembly
+[error] Use 'last' for the full log.
+[debug] > Exec(idea-shell, None, None)
+[warn] build source files have changed
+[warn] modified files: 
+[warn]   C:\Users\PolyakovMA\Desktop\project\code\build.sbt
+[warn] Apply these changes by running `reload`.
+[warn] Automatically reload the build when source changes are detected by setting `Global / onChangedBuildSource := ReloadOnSourceChanges`.
+[warn] Disable this warning by setting `Global / onChangedBuildSource := IgnoreSourceChanges`.

@@ -1,0 +1,41 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\polyakovma\Desktop\project_code\code\target\scala-2.12\classes.bak
+[debug] About to delete class files:
+[debug] 	StatisticByApps$$typecreator16$1.class
+[debug] 	StatisticByApps$$typecreator21$1.class
+[debug] 	StatisticByApps$.class
+[debug] 	StatisticByApps$$typecreator5$1.class
+[debug] 	StatisticByApps$$typecreator31$1.class
+[debug] 	StatisticByApps$$typecreator41$1.class
+[debug] 	StatisticByApps$$typecreator26$1.class
+[debug] 	StatisticByApps$$typecreator6$1.class
+[debug] 	StatisticByApps.class
+[debug] 	StatisticByApps$delayedInit$body.class
+[debug] 	StatisticByApps$$typecreator36$1.class
+[debug] 	StatisticByApps$$typecreator11$1.class
+[debug] We backup class files:
+[debug] 	StatisticByApps$$typecreator16$1.class
+[debug] 	StatisticByApps$$typecreator21$1.class
+[debug] 	StatisticByApps$.class
+[debug] 	StatisticByApps$$typecreator5$1.class
+[debug] 	StatisticByApps$$typecreator31$1.class
+[debug] 	StatisticByApps$$typecreator41$1.class
+[debug] 	StatisticByApps$$typecreator26$1.class
+[debug] 	StatisticByApps$$typecreator6$1.class
+[debug] 	StatisticByApps.class
+[debug] 	StatisticByApps$delayedInit$body.class
+[debug] 	StatisticByApps$$typecreator36$1.class
+[debug] 	StatisticByApps$$typecreator11$1.class
+[debug] Registering generated classes:
+[debug] 	StatisticByApps$$typecreator16$1.class
+[debug] 	StatisticByApps$$typecreator21$1.class
+[debug] 	StatisticByApps$.class
+[debug] 	StatisticByApps$$typecreator5$1.class
+[debug] 	StatisticByApps$$typecreator31$1.class
+[debug] 	StatisticByApps$$typecreator41$1.class
+[debug] 	StatisticByApps$$typecreator26$1.class
+[debug] 	StatisticByApps$$typecreator6$1.class
+[debug] 	StatisticByApps.class
+[debug] 	StatisticByApps$delayedInit$body.class
+[debug] 	StatisticByApps$$typecreator36$1.class
+[debug] 	StatisticByApps$$typecreator11$1.class
+[debug] Removing the temporary directory used for backing up class files: C:\Users\polyakovma\Desktop\project_code\code\target\scala-2.12\classes.bak

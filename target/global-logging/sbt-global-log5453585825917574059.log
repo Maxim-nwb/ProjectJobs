@@ -1,0 +1,9 @@
+[debug] > Exec({file:/C:/Users/PolyakovMA/Desktop/project/code/}root/artifacts, None, None)
+[debug] Evaluating tasks: artifacts
+[info] * Artifact(projectjobs, pom, pom, None, Vector(pom), None, Map(), None, false)
+[info] * Artifact(projectjobs, jar, jar, None, Vector(compile), None, Map(), None, false)
+[info] * Artifact(projectjobs, src, jar, Some(sources), Vector(compile), None, Map(), None, false)
+[info] * Artifact(projectjobs, doc, jar, Some(javadoc), Vector(compile), None, Map(), None, false)
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

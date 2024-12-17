@@ -1,0 +1,11 @@
+[debug] > Exec({file:/C:/Users/maksi/Desktop/project_code/code/}root/compile, None, None)
+[debug] Evaluating tasks: Compile / compile
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 6 Scala sources to C:\Users\maksi\Desktop\project_code\code\target\scala-2.12\classes ...
+[info] Non-compiled module 'compiler-bridge_2.12' for Scala 2.12.15. Compiling...
+[info]   Compilation completed in 76.64s.
+[info] done compiling
+[success] Total time: 249 s (04:09), completed 16 дек. 2024 г., 00:23:00
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

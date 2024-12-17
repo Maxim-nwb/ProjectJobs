@@ -1,0 +1,11 @@
+[error] C:\Users\polyakovma\Desktop\project_code\code\src\main\scala\Jobs\StatisticByApps.scala:27:27: type mismatch;
+[error]  found   : Int
+[error]  required: model.LogOne
+[error]         val t = v.reduce(_+_)
+[error]                           ^
+[error] C:\Users\polyakovma\Desktop\project_code\code\src\main\scala\Jobs\StatisticByApps.scala:28:41: type mismatch;
+[error]  found   : model.LogOne
+[error]  required: Int
+[error]         ResultsStatisticOne(k._1, k._2, t)
+[error]                                         ^
+[error] two errors found

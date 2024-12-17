@@ -1,0 +1,6 @@
+[debug] > Exec(;project {file:/C:/Users/PolyakovMA/Desktop/project/code/}root; reboot, None, None)
+[debug] > Exec(project {file:/C:/Users/PolyakovMA/Desktop/project/code/}root, None, None)
+[info] set current project to ProjectJobs (in build file:/C:/Users/PolyakovMA/Desktop/project/code/)
+[debug] > Exec(reboot, None, None)
+[debug] > Exec(sbtRebootNetwork, None, None)
+[debug] > Exec(sbtRebootImpl, None, None)

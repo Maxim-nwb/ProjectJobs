@@ -1,0 +1,7 @@
+[debug] > Exec({file:/C:/Users/PolyakovMA/Desktop/project/code/}root/artifactPath, None, None)
+[error] No such setting/task
+[error] {file:/C:/Users/PolyakovMA/Desktop/project/code/}root/artifactPath
+[error]                                                                   ^
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

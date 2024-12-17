@@ -1,0 +1,20 @@
+[debug] > Exec(assembly, None, None)
+[warn] build source files have changed
+[warn] modified files: 
+[warn]   C:\Users\PolyakovMA\Desktop\project\code\build.sbt
+[warn] Apply these changes by running `reload`.
+[warn] Automatically reload the build when source changes are detected by setting `Global / onChangedBuildSource := ReloadOnSourceChanges`.
+[warn] Disable this warning by setting `Global / onChangedBuildSource := IgnoreSourceChanges`.
+[debug] Evaluating tasks: assembly
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\PolyakovMA\Desktop\project\code\target\scala-2.13\classes ...
+[warn] 1 deprecation (since 2.13.3); re-run with -deprecation for details
+[warn] one warning found
+[info] done compiling
+[warn] javaOptions will be ignored, fork is set to false
+[info] Strategy 'discard' was applied to 1288 files (Run the task at debug level to see details)
+[info] Strategy 'first' was applied to 11862 files (Run the task at debug level to see details)
+[warn] Ignored unknown package option FixedTimestamp(Some(1262304000000))
+[debug] Forcing garbage collection...
+[success] Total time: 223 s (03:43), completed 23 нояб. 2024 г., 20:31:23
+[debug] > Exec(idea-shell, None, None)
